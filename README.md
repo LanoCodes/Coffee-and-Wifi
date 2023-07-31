@@ -20,8 +20,8 @@ git clone https://github.com/LanoCodes/Coffee-and-Wifi.git
 ## Usage & Thoughts
 - Below are some snapshots of what this should look like when you spin it up.
 - Check out it out and experience the functionality for yourself!
-- Also, be sure to check out the add cafe functionality after running main to be able to see it all come together.
-  - You can do this by going too "/add" (http://127.0.0.1:5000/add)
+- Also, be sure to check out the add café functionality after running main to be able to see it all come together.
+  - You can do this by going to "/add" (http://127.0.0.1:5000/add)
 - Feel free to make changes!
 - ![img.png](img.png)
 - ![img_1.png](img_1.png)
